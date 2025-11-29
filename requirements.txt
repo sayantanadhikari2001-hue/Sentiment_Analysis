@@ -1,0 +1,14 @@
+pandas
+streamlit>=1.18
+plotly
+wordcloud
+matplotlib
+nltk
+spacy
+gensim
+langdetect
+emoji
+openpyxl
+numpy
+seaborn
+
